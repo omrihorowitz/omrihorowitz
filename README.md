@@ -11,7 +11,7 @@ https://apps.apple.com/us/app/make-their-day/id1556738586
 https://apps.apple.com/app/id1560717810
 
 - 👨🏼‍💻 Skills include: Swift, Firebase, Cloudkit, Mapkit, CoreData, AVKit, UIKit, Jira/Trello, Creative Writing, and Visual Design
-- 🔭 I’m currently working on apps for the Food & Beverage, Entertainment, and Employment industries 
-- 🌱 I’m currently learning EVERYTHING. Rome wasn't built in a day, and neither was the next great app! 
-- 📫 How to reach me: horowitzomri@gmail.com
-- ⚡ Fun fact: I speak a couple languages, am a massive cinephile, and have had a successful career as a VO Actor! 
+- 👓 I’m currently working on apps for the Food & Beverage, Entertainment, and Employment industries 
+- 📚 I’m currently learning EVERYTHING. Rome wasn't built in a day, and neither was the next great app! 
+- 📩 How to reach me: horowitzomri@gmail.com
+- 💥 Fun facts: I speak a couple languages, am a massive cinephile, and have had a successful career as a VO Actor! 
